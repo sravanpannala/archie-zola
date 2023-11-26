@@ -36,6 +36,10 @@ copyright = "keith"
 
 ga = "G-6YGDB8SLBT"
 
+# math support
+katex_enable = true
+katex_auto_render = true
+
 [extra.translations]
 languages = [{name = "en", url = "/"}]
 
